@@ -1,0 +1,13 @@
+{
+  "name": "belajar-python",
+  "version": "1.0.0",
+  "description": "Repo untuk belajar Python dari dasar hingga mahir.",
+  "main": "index.py"
+  },
+  "author": "Guntur Khoidir Putra",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "pytest": "^7.2.2"
+  }
+}
